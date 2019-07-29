@@ -16,7 +16,7 @@ public class Main {
                 int X = Integer.parseInt (S);
                 System.out.println("Int: " + X);
 
-                byte Y = (byte) X;
-                System.out.println("Byte: " + Y);
+                double Y = (double) X;
+                System.out.println("Double: " + Y);
             }
         }
